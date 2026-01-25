@@ -1,0 +1,4 @@
+Files with missing Romanian translations:
+- V18__calendar_2028_jan_mar.sql
+- V19__calendar_2028_apr_jun.sql
+- V20__calendar_2028_jul_sep.sql

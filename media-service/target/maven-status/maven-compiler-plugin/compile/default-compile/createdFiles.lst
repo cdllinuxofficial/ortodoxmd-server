@@ -1,0 +1,9 @@
+com/ortodoxmd/media/MediaApplication.class
+com/ortodoxmd/media/controller/IconController.class
+com/ortodoxmd/media/service/AudioBookService.class
+com/ortodoxmd/media/repository/AudioBookRepository.class
+com/ortodoxmd/media/controller/AudioBookController.class
+com/ortodoxmd/media/repository/IconRepository.class
+com/ortodoxmd/media/entity/Icon.class
+com/ortodoxmd/media/entity/AudioBook.class
+com/ortodoxmd/media/service/IconService.class

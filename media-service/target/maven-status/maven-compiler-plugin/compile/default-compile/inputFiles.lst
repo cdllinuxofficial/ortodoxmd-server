@@ -1,0 +1,9 @@
+/home/cdl/Projects/ortodoxmd-server/media-service/src/main/java/com/ortodoxmd/media/MediaApplication.java
+/home/cdl/Projects/ortodoxmd-server/media-service/src/main/java/com/ortodoxmd/media/controller/AudioBookController.java
+/home/cdl/Projects/ortodoxmd-server/media-service/src/main/java/com/ortodoxmd/media/controller/IconController.java
+/home/cdl/Projects/ortodoxmd-server/media-service/src/main/java/com/ortodoxmd/media/entity/AudioBook.java
+/home/cdl/Projects/ortodoxmd-server/media-service/src/main/java/com/ortodoxmd/media/entity/Icon.java
+/home/cdl/Projects/ortodoxmd-server/media-service/src/main/java/com/ortodoxmd/media/repository/AudioBookRepository.java
+/home/cdl/Projects/ortodoxmd-server/media-service/src/main/java/com/ortodoxmd/media/repository/IconRepository.java
+/home/cdl/Projects/ortodoxmd-server/media-service/src/main/java/com/ortodoxmd/media/service/AudioBookService.java
+/home/cdl/Projects/ortodoxmd-server/media-service/src/main/java/com/ortodoxmd/media/service/IconService.java
