@@ -1,4 +1,4 @@
--- V10__calendar_2026_jan_mar.sql
+z-- V10__calendar_2026_jan_mar.sql
 -- Insert-uri generate din API pentru calendar anul 2026 (luni 1-3) (stil vechi, ortodox)
 INSERT INTO core_schema.calendar_days (date, is_fasting_day, fasting_type, fasting_description_en, fasting_description_ro, fasting_description_ru, summary_title_en, summary_title_ro, summary_title_ru, titles_en, titles_ro, titles_ru) VALUES ('2026-01-01', true, 'unknown', 'Nativity Fast', 'Postul Nașterii Domnului', 'Nativity Fast', 'Martyr Boniface and Righteous Aglaida', 'Sfântul Mucenic Bonifatie și Dreapta Aglaida', 'Martyr Boniface and Righteous Aglaida', 'Thursday of the 30th week after Pentecost', 'Joi din săptămâna a 30-a după Rusalii', 'Thursday of the 30th week after Pentecost');
 INSERT INTO core_schema.saints (calendar_day_date, name_and_description_en, name_and_description_ro, name_and_description_ru) VALUES ('2026-01-01', 'Martyr Boniface and Righteous Aglaida', 'Sfântul Mucenic Bonifatie și Dreapta Aglaida', 'Martyr Boniface and Righteous Aglaida');
