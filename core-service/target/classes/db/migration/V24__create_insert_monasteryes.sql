@@ -15,7 +15,7 @@ CREATE TABLE core_schema.monasteries (
 -- ===================================================================================================
 -- SCRIPT DE INSERARE SQL PENTRU MĂNĂSTIRILE MITROPOLIEI CHIȘINĂULUI ȘI A ÎNTREGII MOLDOVE
 -- Date extrase și verificate de pe sursa oficială mitropolia.md, actualizate în August 2025.
--- Setul de date este codificat în UTF-8. Caracterele apostrof (') din text sunt escapate ('').
+-- Setul de date este codificat în UTF-8. Caracterele apostrof (') din text sunt escapate (').
 -- ===================================================================================================
 
 INSERT INTO core_schema.monasteries (name_ro, name_en, name_ru, description_ro, description_en, description_ru, latitude, longitude) VALUES

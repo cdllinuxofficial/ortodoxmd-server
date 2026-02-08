@@ -15,7 +15,7 @@ CREATE TABLE core_schema.apologetics_entries (
 -- SCRIPT DE INSERARE SQL PENTRU SECȚIUNEA DE APOLOGETICĂ
 -- Conținut extras și adaptat din lucrarea "De ce nu pot rămâne baptist și, în general, protestant"
 -- de preot Serghei Cobzar.
--- Setul de date este codificat în UTF-8. Caracterele apostrof (') din text sunt escapate ('').
+-- Setul de date este codificat în UTF-8. Caracterele apostrof (') din text sunt escapate (').
 -- ===================================================================================================
 
 -- Categoria: Fundamentele Credinței

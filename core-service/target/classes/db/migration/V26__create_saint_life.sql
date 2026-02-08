@@ -94,10 +94,3 @@ VALUES (
     'Traiectoria sa pământească demonstrează că sfințenia nu se dobândește prin evitarea suferinței, ci prin îmbrățișarea ei cu dragoste și încredere în providența divină. El este ierarhul smereniei, cel calomniat care a iertat, teologul care s-a rugat și bolnavul care vindecă. Viața sa, popularizată recent și în afara lumii ortodoxe prin filmul Omul lui Dumnezeu (Man of God) , continuă să inspire și să ofere un model atemporal de virtute creștină pentru credinciosul secolului XXI, reamintind tuturor că, în ciuda nedreptăților lumii, „celor ce iubesc pe Dumnezeu, toate li se lucrează spre bine”.',
     1
 );
-
-INSERT INTO core_schema.saint_lives (name_ro, life_description_ro, icon_id)
-VALUES (
-    'Sfântul Ierarh Nicolae, Arhiepiscopul Mirelor Lichiei',
-    'Unul dintre cei mai iubiți sfinți din întreaga lume creștină, Sfântul Nicolae a trăit în secolul al IV-lea. A fost un apărător ferm al dreptei credințe la Primul Sinod Ecumenic și este cunoscut pentru nenumăratele sale fapte de milostenie, făcute în secret. Este ocrotitorul copiilor, al marinarilor și al celor nedreptățiți.',
-    null
-);
